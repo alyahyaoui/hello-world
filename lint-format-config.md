@@ -18,7 +18,11 @@ First of all we need to install related packages using NPM in our working direct
 ```bash
 npm install -D eslint prettier eslint-config-prettier eslint-plugin-prettier
 ```
-You can enable Eslint globally ( but this is not a recommanded practice )
+You can enable Eslint globally ( *this way you dont have to install it in the working folder and you can generate a global .eslistrc file but this is not recommended* )
 ```bash
-npm instal -g eslint
+sudo npm install -g eslint
 ````
+now our needed packaged are fully downloaded, time to start the configuration.
+`bash
+eslint --init
+`
