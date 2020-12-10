@@ -4,7 +4,10 @@
 
 *Writing high quality code is as important as the code itself, this is why tools for liting and formatting are required to improve code style.  
 in this article we will see how to setup Eslint with **Airbnb config** + Prettier in Vscode*.   
-
+why using linting tools like Esline. linting tools allow us to reduce errors and accelerate developping workflow    
+linting is creating automated checking for javascript without executing it.
+using combined liting and formatting tools help to improve overall code quality.   
+Formatting tools such as "Prettier" help to enforece a code style making team work easier and code more understandable this is why we use Airbnb code style in this article.
 ***
 **prerequisites:**    
 - **Nodejs & NPM installed**
@@ -26,3 +29,6 @@ now our needed packaged are fully downloaded, time to start the configuration.
 `bash
 eslint --init
 `
+
+---
+
