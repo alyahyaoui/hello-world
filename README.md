@@ -21,6 +21,7 @@ button {
 ```
 
 https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
-https://medium.com/@danromans/how-to-customize-semantic-token-colorization-with-visual-studio-code-ac3eab96141b
+
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+https://medium.com/chingu/an-introduction-to-environment-variables-and-how-to-use-them-f602f66d15fa
 
